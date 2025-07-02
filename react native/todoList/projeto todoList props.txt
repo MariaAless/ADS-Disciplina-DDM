@@ -1,5 +1,0 @@
-projeto : todoList
-props : 
-text
-ação marcar
-ação de excluir 
